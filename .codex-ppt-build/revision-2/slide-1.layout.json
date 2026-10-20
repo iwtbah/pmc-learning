@@ -1,0 +1,23 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/6j962h","index":0,"layout":{"id":"ly/4r2p8ruh","name":"Blank"},"backgroundColor":"rgba(16,31,53,1)","position":{"left":0,"top":0,"width":1280,"height":720}},
+"elements":[
+{"id":"sh/x032dkv6","kind":"textbox","name":"element-1","position":{"left":76,"top":208,"width":1000,"height":142},"text":"PMC 业务学习阶段总结\n与 AI 技术应用探索","style":{"fontSize":46,"typeface":"Microsoft YaHei","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/axcj25cf","kind":"shape","name":"element-2","position":{"left":78,"top":394,"width":82,"height":0},"geometry":"line","lineColor":"#69B9ED","lineWidth":3},
+{"id":"sh/bylkbad0","kind":"textbox","name":"element-3","position":{"left":78,"top":510,"width":700,"height":32},"text":"汇报人：[待填写]","style":{"fontSize":21,"typeface":"Microsoft YaHei","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/k3e18zuh","kind":"textbox","name":"element-4","position":{"left":78,"top":552,"width":700,"height":30},"text":"2026 年 10 月","style":{"fontSize":20,"typeface":"Microsoft YaHei","color":"#B8C9DA","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/l4n2h4b2","kind":"shape","name":"element-5","position":{"left":1040,"top":176,"width":0,"height":330},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/y1cj6pcr","kind":"shape","name":"element-6","position":{"left":1074,"top":176,"width":0,"height":330},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/z25kfutc","kind":"shape","name":"element-7","position":{"left":1108,"top":176,"width":0,"height":330},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/07a1wvud","kind":"shape","name":"element-8","position":{"left":1142,"top":176,"width":0,"height":330},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/18j250vy","kind":"shape","name":"element-9","position":{"left":1176,"top":176,"width":0,"height":330},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/5k7a1wfy","kind":"shape","name":"element-10","position":{"left":1014,"top":186,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/4jy98ryd","kind":"shape","name":"element-11","position":{"left":1014,"top":222,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/jipszmxs","kind":"shape","name":"element-12","position":{"left":1014,"top":258,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/ihgr6hg7","kind":"shape","name":"element-13","position":{"left":1014,"top":294,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/tora5wfu","kind":"shape","name":"element-14","position":{"left":1014,"top":330,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/sni9cry9","kind":"shape","name":"element-15","position":{"left":1014,"top":366,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/rmps3mx4","kind":"shape","name":"element-16","position":{"left":1014,"top":402,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/6lgra1gj","kind":"shape","name":"element-17","position":{"left":1014,"top":438,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/1sra9gf6","kind":"shape","name":"element-18","position":{"left":1014,"top":474,"width":202,"height":0},"geometry":"line","lineColor":"#20364E","lineWidth":1},
+{"id":"sh/gritgbyl","kind":"shape","name":"element-19","position":{"left":1040,"top":366,"width":102,"height":0},"geometry":"line","lineColor":"#3B7AA8","lineWidth":2},
+{"id":"sh/07alsjat","kind":"textbox","name":"element-20","position":{"left":1166,"top":676,"width":50,"height":22},"text":"01","style":{"fontSize":16,"typeface":"Microsoft YaHei","color":"#8FA6BF","alignment":"right"},"geometry":"rect","lineWidth":0}
+]}
